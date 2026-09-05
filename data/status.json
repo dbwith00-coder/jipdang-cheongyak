@@ -1,12 +1,12 @@
 {
-  "collectedAt": "2026-09-05T03:15:44.776Z",
+  "collectedAt": "2026-09-05T21:07:25.727Z",
   "sources": {
     "lh": {
       "ok": false,
       "count": 0,
       "rawCount": 0,
       "pickedFrom": null,
-      "ms": 21379,
+      "ms": 21146,
       "error": "연결 실패 (fetch failed) · 2회 시도",
       "fields": []
     },
@@ -15,7 +15,7 @@
       "count": 754,
       "rawCount": 754,
       "pickedFrom": "data",
-      "ms": 48948,
+      "ms": 39419,
       "error": null,
       "fields": [
         "BSNS_MBY_NM",
