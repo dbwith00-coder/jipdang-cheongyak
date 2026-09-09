@@ -1,21 +1,21 @@
 {
-  "collectedAt": "2026-09-08T21:07:44.474Z",
+  "collectedAt": "2026-09-09T03:16:39.100Z",
   "sources": {
     "lh": {
       "ok": false,
       "count": 0,
       "rawCount": 0,
       "pickedFrom": null,
-      "ms": 21041,
+      "ms": 21064,
       "error": "연결 실패 (fetch failed) · 2회 시도",
       "fields": []
     },
     "odc": {
       "ok": true,
-      "count": 752,
-      "rawCount": 752,
+      "count": 750,
+      "rawCount": 750,
       "pickedFrom": "data",
-      "ms": 31312,
+      "ms": 33550,
       "error": null,
       "fields": [
         "BSNS_MBY_NM",
@@ -79,8 +79,8 @@
         {
           "key": "remndr",
           "label": "무순위·잔여세대",
-          "count": 382,
-          "total": 382,
+          "count": 380,
+          "total": 380,
           "error": null
         }
       ]
