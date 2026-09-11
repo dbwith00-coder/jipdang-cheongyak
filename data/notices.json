@@ -1,6 +1,6 @@
 {
-  "collectedAt": "2026-09-10T21:07:23.507Z",
-  "count": 758,
+  "collectedAt": "2026-09-11T03:15:45.679Z",
+  "count": 754,
   "sites": [
     {
       "id": "applyhome-apt-2026000314-2026000314",
@@ -813,7 +813,7 @@
       "when": "2026-09-03",
       "rceptStart": "2026-09-08",
       "rceptEnd": "2026-09-10",
-      "status": "접수 중",
+      "status": "접수 마감",
       "receipt": {
         "special": "2026-09-08 ~ 2026-09-08",
         "rank1": "2026-09-09 ~ 2026-09-09",
@@ -1452,7 +1452,7 @@
       "when": "2026-08-28",
       "rceptStart": "2026-09-07",
       "rceptEnd": "2026-09-10",
-      "status": "접수 중",
+      "status": "접수 마감",
       "receipt": {
         "special": "2026-09-07 ~ 2026-09-07",
         "rank1": "2026-09-08 ~ 2026-09-08",
@@ -2579,7 +2579,7 @@
       "gu": "경기도 남양주시 오남읍 양지리",
       "brand": "(주)서희건설",
       "total": 180,
-      "general": 91,
+      "general": 180,
       "when": "2026-08-13",
       "rceptStart": "2026-08-24",
       "rceptEnd": "2026-08-26",
@@ -2592,60 +2592,12 @@
       },
       "types": [
         {
-          "t": "59㎡A",
-          "n": 83,
-          "price": 55400,
-          "general": 40,
-          "special": 43
-        },
-        {
-          "t": "59㎡B",
-          "n": 63,
-          "price": 54800,
-          "general": 31,
-          "special": 32
-        },
-        {
-          "t": "75㎡",
-          "n": 19,
-          "price": 65900,
-          "general": 11,
-          "special": 8
-        },
-        {
-          "t": "84㎡",
-          "n": 15,
-          "price": 71900,
-          "general": 9,
-          "special": 6
+          "t": "주택형 미상",
+          "n": 0,
+          "price": 0
         }
       ],
-      "specialUnits": {
-        "newly": {
-          "n": 25,
-          "label": "신혼부부"
-        },
-        "first": {
-          "n": 11,
-          "label": "생애최초"
-        },
-        "multi": {
-          "n": 17,
-          "label": "다자녀가구"
-        },
-        "old": {
-          "n": 3,
-          "label": "노부모부양"
-        },
-        "inst": {
-          "n": 17,
-          "label": "기관추천"
-        },
-        "baby": {
-          "n": 16,
-          "label": "신생아"
-        }
-      },
+      "specialUnits": {},
       "cut": 49,
       "cutEstimated": true,
       "cutAmt": 0,
@@ -2669,7 +2621,7 @@
       "gu": "경기도 부천시 소사구 소사본동",
       "brand": "두산건설 주식회사, 쌍용건설(주)",
       "total": 1158,
-      "general": 525,
+      "general": 1158,
       "when": "2026-08-12",
       "rceptStart": "2026-08-19",
       "rceptEnd": "2026-08-21",
@@ -2682,74 +2634,12 @@
       },
       "types": [
         {
-          "t": "59㎡A",
-          "n": 321,
-          "price": 87500,
-          "general": 145,
-          "special": 176
-        },
-        {
-          "t": "59㎡B",
-          "n": 170,
-          "price": 86400,
-          "general": 77,
-          "special": 93
-        },
-        {
-          "t": "74㎡A",
-          "n": 156,
-          "price": 105500,
-          "general": 72,
-          "special": 84
-        },
-        {
-          "t": "74㎡B",
-          "n": 160,
-          "price": 101500,
-          "general": 72,
-          "special": 88
-        },
-        {
-          "t": "84㎡A",
-          "n": 105,
-          "price": 118200,
-          "general": 49,
-          "special": 56
-        },
-        {
-          "t": "84㎡B",
-          "n": 246,
-          "price": 112300,
-          "general": 110,
-          "special": 136
+          "t": "주택형 미상",
+          "n": 0,
+          "price": 0
         }
       ],
-      "specialUnits": {
-        "newly": {
-          "n": 173,
-          "label": "신혼부부"
-        },
-        "first": {
-          "n": 81,
-          "label": "생애최초"
-        },
-        "multi": {
-          "n": 115,
-          "label": "다자녀가구"
-        },
-        "old": {
-          "n": 34,
-          "label": "노부모부양"
-        },
-        "inst": {
-          "n": 115,
-          "label": "기관추천"
-        },
-        "baby": {
-          "n": 115,
-          "label": "신생아"
-        }
-      },
+      "specialUnits": {},
       "cut": 42,
       "cutEstimated": true,
       "cutAmt": 0,
@@ -32008,7 +31898,7 @@
       "gu": "경상북도 구미시 광평동 227번지",
       "brand": "두산건설 주식회사",
       "total": 403,
-      "general": 213,
+      "general": 403,
       "when": "2025-10-15",
       "rceptStart": "2025-10-20",
       "rceptEnd": "2025-10-22",
@@ -32021,84 +31911,12 @@
       },
       "types": [
         {
-          "t": "59㎡",
-          "n": 26,
-          "price": 37830,
-          "general": 11,
-          "special": 15
-        },
-        {
-          "t": "74㎡A",
-          "n": 8,
-          "price": 46960,
-          "general": 3,
-          "special": 5
-        },
-        {
-          "t": "74㎡B",
-          "n": 4,
-          "price": 46740,
-          "general": 3,
-          "special": 1
-        },
-        {
-          "t": "84㎡A",
-          "n": 184,
-          "price": 53380,
-          "general": 84,
-          "special": 100
-        },
-        {
-          "t": "84㎡B",
-          "n": 113,
-          "price": 52950,
-          "general": 52,
-          "special": 61
-        },
-        {
-          "t": "108㎡",
-          "n": 64,
-          "price": 71700,
-          "general": 56,
-          "special": 8
-        },
-        {
-          "t": "152㎡A",
-          "n": 2,
-          "price": 130810,
-          "general": 2,
-          "special": 0
-        },
-        {
-          "t": "152㎡B",
-          "n": 2,
-          "price": 130810,
-          "general": 2,
-          "special": 0
+          "t": "주택형 미상",
+          "n": 0,
+          "price": 0
         }
       ],
-      "specialUnits": {
-        "newly": {
-          "n": 77,
-          "label": "신혼부부"
-        },
-        "first": {
-          "n": 30,
-          "label": "생애최초"
-        },
-        "multi": {
-          "n": 39,
-          "label": "다자녀가구"
-        },
-        "old": {
-          "n": 11,
-          "label": "노부모부양"
-        },
-        "inst": {
-          "n": 33,
-          "label": "기관추천"
-        }
-      },
+      "specialUnits": {},
       "cut": 42,
       "cutEstimated": true,
       "cutAmt": 0,
@@ -32122,7 +31940,7 @@
       "gu": "부산광역시 사상구 감전동 산1-9일원",
       "brand": "(주)동원개발",
       "total": 852,
-      "general": 385,
+      "general": 852,
       "when": "2025-10-10",
       "rceptStart": "2025-10-20",
       "rceptEnd": "2025-10-22",
@@ -32135,56 +31953,12 @@
       },
       "types": [
         {
-          "t": "84㎡A",
-          "n": 552,
-          "price": 59530,
-          "general": 248,
-          "special": 304
-        },
-        {
-          "t": "84㎡B",
-          "n": 143,
-          "price": 58930,
-          "general": 65,
-          "special": 78
-        },
-        {
-          "t": "84㎡C",
-          "n": 135,
-          "price": 58330,
-          "general": 60,
-          "special": 75
-        },
-        {
-          "t": "84㎡T",
-          "n": 22,
-          "price": 60730,
-          "general": 12,
-          "special": 10
+          "t": "주택형 미상",
+          "n": 0,
+          "price": 0
         }
       ],
-      "specialUnits": {
-        "newly": {
-          "n": 196,
-          "label": "신혼부부"
-        },
-        "first": {
-          "n": 76,
-          "label": "생애최초"
-        },
-        "multi": {
-          "n": 85,
-          "label": "다자녀가구"
-        },
-        "old": {
-          "n": 25,
-          "label": "노부모부양"
-        },
-        "inst": {
-          "n": 85,
-          "label": "기관추천"
-        }
-      },
+      "specialUnits": {},
       "cut": 45,
       "cutEstimated": true,
       "cutAmt": 0,
@@ -36689,11 +36463,9 @@
       },
       "types": [
         {
-          "t": "84㎡A",
-          "n": 1,
-          "price": 54770,
-          "general": 0,
-          "special": 1
+          "t": "주택형 미상",
+          "n": 0,
+          "price": 0
         }
       ],
       "specialUnits": {},
@@ -36734,11 +36506,9 @@
       },
       "types": [
         {
-          "t": "84㎡C",
-          "n": 1,
-          "price": 94085,
-          "general": 1,
-          "special": 0
+          "t": "주택형 미상",
+          "n": 0,
+          "price": 0
         }
       ],
       "specialUnits": {},
@@ -38149,11 +37919,9 @@
       },
       "types": [
         {
-          "t": "84㎡A",
-          "n": 1,
-          "price": 134190,
-          "general": 0,
-          "special": 1
+          "t": "주택형 미상",
+          "n": 0,
+          "price": 0
         }
       ],
       "specialUnits": {},
@@ -39515,11 +39283,9 @@
       },
       "types": [
         {
-          "t": "84㎡",
-          "n": 3,
-          "price": 44200,
-          "general": 3,
-          "special": 0
+          "t": "주택형 미상",
+          "n": 0,
+          "price": 0
         }
       ],
       "specialUnits": {},
@@ -39560,11 +39326,9 @@
       },
       "types": [
         {
-          "t": "84㎡A",
-          "n": 3,
-          "price": 295890,
-          "general": 3,
-          "special": 0
+          "t": "주택형 미상",
+          "n": 0,
+          "price": 0
         }
       ],
       "specialUnits": {},
@@ -56241,249 +56005,6 @@
       ],
       "url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910175&pblancNo=2025910175",
       "note": "청약홈 무순위·잔여세대 API 에서 받아온 공고입니다. 시행 주식회사 하나자산신탁(제기1 재건축) · 당첨자발표 2025-09-22 · 입주예정 202809. 무순위·잔여세대는 가점제가 아니라 추첨이라 가점 비교를 하지 않습니다."
-    },
-    {
-      "id": "applyhome-remndr-2025910171-2025910171",
-      "live": true,
-      "source": "applyhome",
-      "set": "remndr",
-      "category": "무순위",
-      "scoreless": true,
-      "supply": "민영",
-      "kind": "무순위",
-      "n": "세종자이 더 시티(산울마을2단지)",
-      "gu": "세종특별자치시 산울동 259번지 일원(행정중심복합도시",
-      "brand": "지에스건설(주), (주)태영건설, 한신공영(주)",
-      "total": 2,
-      "general": 2,
-      "when": "2025-09-10",
-      "rceptStart": "2025-09-15",
-      "rceptEnd": "2025-09-15",
-      "status": "접수 마감",
-      "receipt": {
-        "special": "",
-        "rank1": "",
-        "general": "2025-09-15 ~ 2025-09-15",
-        "result": "2025-09-18"
-      },
-      "types": [
-        {
-          "t": "84㎡C",
-          "n": 1,
-          "price": 42500,
-          "general": 1,
-          "special": 0
-        },
-        {
-          "t": "101㎡B",
-          "n": 1,
-          "price": 50000,
-          "general": 1,
-          "special": 0
-        }
-      ],
-      "specialUnits": {},
-      "cut": 45,
-      "cutEstimated": true,
-      "cutAmt": 0,
-      "cutAmtEstimated": true,
-      "tags": [
-        "실시간",
-        "무순위"
-      ],
-      "url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910171&pblancNo=2025910171",
-      "note": "청약홈 무순위·잔여세대 API 에서 받아온 공고입니다. 시행 지에스건설(주), (주)태영건설, 한신공영(주) · 당첨자발표 2025-09-18 · 입주예정 202510. 무순위·잔여세대는 가점제가 아니라 추첨이라 가점 비교를 하지 않습니다."
-    },
-    {
-      "id": "applyhome-remndr-2025910159-2025910159",
-      "live": true,
-      "source": "applyhome",
-      "set": "remndr",
-      "category": "무순위",
-      "scoreless": true,
-      "supply": "민영",
-      "kind": "무순위",
-      "n": "써밋 리미티드 남천",
-      "gu": "부산광역시 수영구 남천동 545-2번지",
-      "brand": "큐브광안피에프브이주식회사",
-      "total": 200,
-      "general": 200,
-      "when": "2025-09-10",
-      "rceptStart": "2025-09-15",
-      "rceptEnd": "2025-09-15",
-      "status": "접수 마감",
-      "receipt": {
-        "special": "",
-        "rank1": "",
-        "general": "2025-09-15 ~ 2025-09-15",
-        "result": "2025-09-18"
-      },
-      "types": [
-        {
-          "t": "142㎡A",
-          "n": 79,
-          "price": 299360,
-          "general": 79,
-          "special": 0
-        },
-        {
-          "t": "144㎡A",
-          "n": 46,
-          "price": 330430,
-          "general": 46,
-          "special": 0
-        },
-        {
-          "t": "182㎡A",
-          "n": 21,
-          "price": 437550,
-          "general": 21,
-          "special": 0
-        },
-        {
-          "t": "182㎡B",
-          "n": 48,
-          "price": 423820,
-          "general": 48,
-          "special": 0
-        },
-        {
-          "t": "227㎡A",
-          "n": 2,
-          "price": 945430,
-          "general": 2,
-          "special": 0
-        },
-        {
-          "t": "243㎡B",
-          "n": 1,
-          "price": 1150830,
-          "general": 1,
-          "special": 0
-        },
-        {
-          "t": "243㎡C",
-          "n": 1,
-          "price": 1141780,
-          "general": 1,
-          "special": 0
-        },
-        {
-          "t": "243㎡D",
-          "n": 1,
-          "price": 1148450,
-          "general": 1,
-          "special": 0
-        },
-        {
-          "t": "243㎡E",
-          "n": 1,
-          "price": 1071410,
-          "general": 1,
-          "special": 0
-        }
-      ],
-      "specialUnits": {},
-      "cut": 45,
-      "cutEstimated": true,
-      "cutAmt": 0,
-      "cutAmtEstimated": true,
-      "tags": [
-        "실시간",
-        "무순위"
-      ],
-      "url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910159&pblancNo=2025910159",
-      "note": "청약홈 무순위·잔여세대 API 에서 받아온 공고입니다. 시행 큐브광안피에프브이주식회사 · 당첨자발표 2025-09-18 · 입주예정 202907. 무순위·잔여세대는 가점제가 아니라 추첨이라 가점 비교를 하지 않습니다."
-    },
-    {
-      "id": "applyhome-remndr-2025910158-2025910158",
-      "live": true,
-      "source": "applyhome",
-      "set": "remndr",
-      "category": "무순위",
-      "scoreless": true,
-      "supply": "민영",
-      "kind": "무순위",
-      "n": "춘천 동문 디 이스트 어반포레",
-      "gu": "강원특별자치도 춘천시 동면 만천리",
-      "brand": "우리자산신탁 주식회사",
-      "total": 22,
-      "general": 22,
-      "when": "2025-09-10",
-      "rceptStart": "2025-09-15",
-      "rceptEnd": "2025-09-15",
-      "status": "접수 마감",
-      "receipt": {
-        "special": "",
-        "rank1": "",
-        "general": "2025-09-15 ~ 2025-09-15",
-        "result": "2025-09-18"
-      },
-      "types": [
-        {
-          "t": "59㎡",
-          "n": 22,
-          "price": 39470,
-          "general": 22,
-          "special": 0
-        }
-      ],
-      "specialUnits": {},
-      "cut": 42,
-      "cutEstimated": true,
-      "cutAmt": 0,
-      "cutAmtEstimated": true,
-      "tags": [
-        "실시간",
-        "무순위"
-      ],
-      "url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910158&pblancNo=2025910158",
-      "note": "청약홈 무순위·잔여세대 API 에서 받아온 공고입니다. 시행 우리자산신탁 주식회사 · 당첨자발표 2025-09-18 · 입주예정 202810. 무순위·잔여세대는 가점제가 아니라 추첨이라 가점 비교를 하지 않습니다."
-    },
-    {
-      "id": "applyhome-remndr-2025910153-2025910153",
-      "live": true,
-      "source": "applyhome",
-      "set": "remndr",
-      "category": "무순위",
-      "scoreless": true,
-      "supply": "민영",
-      "kind": "무순위",
-      "n": "평촌 트리지아",
-      "gu": "경기도 안양시 동안구 귀인로",
-      "brand": "융창아파트주변지구 주택재개발정비사업조합",
-      "total": 1,
-      "general": 1,
-      "when": "2025-09-10",
-      "rceptStart": "2025-09-15",
-      "rceptEnd": "2025-09-15",
-      "status": "접수 마감",
-      "receipt": {
-        "special": "",
-        "rank1": "",
-        "general": "2025-09-15 ~ 2025-09-15",
-        "result": "2025-09-18"
-      },
-      "types": [
-        {
-          "t": "74㎡",
-          "n": 1,
-          "price": 69700,
-          "general": 1,
-          "special": 0
-        }
-      ],
-      "specialUnits": {},
-      "cut": 58,
-      "cutEstimated": true,
-      "cutAmt": 0,
-      "cutAmtEstimated": true,
-      "tags": [
-        "실시간",
-        "무순위"
-      ],
-      "url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910153&pblancNo=2025910153",
-      "note": "청약홈 무순위·잔여세대 API 에서 받아온 공고입니다. 시행 융창아파트주변지구 주택재개발정비사업조합 · 당첨자발표 2025-09-18 · 입주예정 202511. 무순위·잔여세대는 가점제가 아니라 추첨이라 가점 비교를 하지 않습니다."
     }
   ]
 }
