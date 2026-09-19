@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-19T03:15:42.595Z",
+  "collectedAt": "2026-09-19T21:07:16.156Z",
   "count": 764,
   "sites": [
     {
@@ -13571,7 +13571,7 @@
       "gu": "경상북도 상주시 냉림동 53번지",
       "brand": "코오롱글로벌(주)",
       "total": 466,
-      "general": 466,
+      "general": 260,
       "when": "2026-04-30",
       "rceptStart": "2026-05-11",
       "rceptEnd": "2026-05-13",
@@ -13584,12 +13584,63 @@
       },
       "types": [
         {
-          "t": "주택형 미상",
-          "n": 0,
-          "price": 0
+          "t": "66㎡",
+          "n": 42,
+          "price": 36700,
+          "general": 20,
+          "special": 22
+        },
+        {
+          "t": "84㎡A",
+          "n": 98,
+          "price": 45400,
+          "general": 47,
+          "special": 51
+        },
+        {
+          "t": "84㎡B",
+          "n": 172,
+          "price": 45400,
+          "general": 78,
+          "special": 94
+        },
+        {
+          "t": "84㎡C",
+          "n": 48,
+          "price": 44800,
+          "general": 23,
+          "special": 25
+        },
+        {
+          "t": "117㎡",
+          "n": 106,
+          "price": 63700,
+          "general": 92,
+          "special": 14
         }
       ],
-      "specialUnits": {},
+      "specialUnits": {
+        "newly": {
+          "n": 81,
+          "label": "신혼부부"
+        },
+        "first": {
+          "n": 30,
+          "label": "생애최초"
+        },
+        "multi": {
+          "n": 44,
+          "label": "다자녀가구"
+        },
+        "old": {
+          "n": 17,
+          "label": "노부모부양"
+        },
+        "inst": {
+          "n": 34,
+          "label": "기관추천"
+        }
+      },
       "cut": 42,
       "cutEstimated": true,
       "cutAmt": 0,
@@ -13613,7 +13664,7 @@
       "gu": "경상남도 창원시 마산합포구 자산동",
       "brand": "(주)태영건설",
       "total": 739,
-      "general": 739,
+      "general": 336,
       "when": "2026-04-30",
       "rceptStart": "2026-05-11",
       "rceptEnd": "2026-05-13",
@@ -13626,12 +13677,70 @@
       },
       "types": [
         {
-          "t": "주택형 미상",
-          "n": 0,
-          "price": 0
+          "t": "59㎡A",
+          "n": 222,
+          "price": 39970,
+          "general": 100,
+          "special": 122
+        },
+        {
+          "t": "59㎡B",
+          "n": 27,
+          "price": 39790,
+          "general": 14,
+          "special": 13
+        },
+        {
+          "t": "72㎡A",
+          "n": 253,
+          "price": 43930,
+          "general": 115,
+          "special": 138
+        },
+        {
+          "t": "72㎡B",
+          "n": 114,
+          "price": 43650,
+          "general": 53,
+          "special": 61
+        },
+        {
+          "t": "84㎡A",
+          "n": 27,
+          "price": 54670,
+          "general": 12,
+          "special": 15
+        },
+        {
+          "t": "84㎡B",
+          "n": 96,
+          "price": 54620,
+          "general": 42,
+          "special": 54
         }
       ],
-      "specialUnits": {},
+      "specialUnits": {
+        "newly": {
+          "n": 169,
+          "label": "신혼부부"
+        },
+        "first": {
+          "n": 66,
+          "label": "생애최초"
+        },
+        "multi": {
+          "n": 73,
+          "label": "다자녀가구"
+        },
+        "old": {
+          "n": 22,
+          "label": "노부모부양"
+        },
+        "inst": {
+          "n": 73,
+          "label": "기관추천"
+        }
+      },
       "cut": 42,
       "cutEstimated": true,
       "cutAmt": 0,
