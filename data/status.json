@@ -1,21 +1,21 @@
 {
-  "collectedAt": "2026-09-18T21:08:13.979Z",
+  "collectedAt": "2026-09-19T03:15:42.595Z",
   "sources": {
     "lh": {
       "ok": false,
       "count": 0,
       "rawCount": 0,
       "pickedFrom": null,
-      "ms": 21148,
+      "ms": 21040,
       "error": "연결 실패 (fetch failed) · 2회 시도",
       "fields": []
     },
     "odc": {
       "ok": true,
-      "count": 765,
-      "rawCount": 765,
+      "count": 764,
+      "rawCount": 764,
       "pickedFrom": "data",
-      "ms": 63508,
+      "ms": 51558,
       "error": null,
       "fields": [
         "BSNS_MBY_NM",
@@ -72,8 +72,8 @@
         {
           "key": "apt",
           "label": "APT 분양",
-          "count": 381,
-          "total": 381,
+          "count": 380,
+          "total": 380,
           "error": null
         },
         {
