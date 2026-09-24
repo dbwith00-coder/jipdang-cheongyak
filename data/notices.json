@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-24T03:15:49.206Z",
+  "collectedAt": "2026-09-24T21:07:53.546Z",
   "count": 750,
   "sites": [
     {
@@ -54307,9 +54307,11 @@
       },
       "types": [
         {
-          "t": "주택형 미상",
-          "n": 0,
-          "price": 0
+          "t": "39㎡",
+          "n": 34,
+          "price": 74826,
+          "general": 34,
+          "special": 0
         }
       ],
       "specialUnits": {},
