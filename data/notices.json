@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-04T23:47:36.327Z",
+  "collectedAt": "2026-10-05T10:13:41.400Z",
   "count": 745,
   "sites": [
     {
@@ -55037,11 +55037,9 @@
       },
       "types": [
         {
-          "t": "84㎡A",
-          "n": 1,
-          "price": 70300,
-          "general": 1,
-          "special": 0
+          "t": "주택형 미상",
+          "n": 0,
+          "price": 0
         }
       ],
       "specialUnits": {},
