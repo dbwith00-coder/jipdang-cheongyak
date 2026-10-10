@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-10T00:27:53.630Z",
+  "collectedAt": "2026-10-10T09:38:12.210Z",
   "count": 758,
   "sites": [
     {
@@ -49622,25 +49622,9 @@
       },
       "types": [
         {
-          "t": "59㎡A",
-          "n": 122,
-          "price": 39800,
-          "general": 122,
-          "special": 0
-        },
-        {
-          "t": "84㎡B",
-          "n": 42,
-          "price": 53800,
-          "general": 42,
-          "special": 0
-        },
-        {
-          "t": "84㎡C",
-          "n": 34,
-          "price": 55600,
-          "general": 34,
-          "special": 0
+          "t": "주택형 미상",
+          "n": 0,
+          "price": 0
         }
       ],
       "specialUnits": {},
@@ -56337,11 +56321,9 @@
       },
       "types": [
         {
-          "t": "84㎡D",
-          "n": 20,
-          "price": 48100,
-          "general": 20,
-          "special": 0
+          "t": "주택형 미상",
+          "n": 0,
+          "price": 0
         }
       ],
       "specialUnits": {},
