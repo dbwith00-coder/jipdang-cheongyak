@@ -1,7 +1,139 @@
 {
-  "collectedAt": "2026-10-21T08:25:01.889Z",
-  "count": 752,
+  "collectedAt": "2026-10-21T23:53:13.558Z",
+  "count": 757,
   "sites": [
+    {
+      "id": "applyhome-apt-2026000502-2026000502",
+      "live": true,
+      "source": "applyhome",
+      "set": "apt",
+      "category": "APT",
+      "scoreless": false,
+      "supply": "민영",
+      "kind": "APT",
+      "n": "화성 향남 롯데캐슬 시그니처",
+      "gu": "경기도 화성시 만세구 향남읍",
+      "brand": "롯데건설(주)",
+      "total": 1542,
+      "general": 791,
+      "when": "2026-10-21",
+      "rceptStart": "2026-11-02",
+      "rceptEnd": "2026-11-04",
+      "status": "접수 예정",
+      "receipt": {
+        "special": "2026-11-02 ~ 2026-11-02",
+        "rank1": "2026-11-03 ~ 2026-11-03",
+        "general": "2026-11-02 ~ 2026-11-04",
+        "result": "2026-11-10"
+      },
+      "types": [
+        {
+          "t": "84㎡A",
+          "n": 291,
+          "price": 53600,
+          "general": 132,
+          "special": 159
+        },
+        {
+          "t": "84㎡B",
+          "n": 136,
+          "price": 54300,
+          "general": 64,
+          "special": 72
+        },
+        {
+          "t": "84㎡C",
+          "n": 412,
+          "price": 53500,
+          "general": 187,
+          "special": 225
+        },
+        {
+          "t": "84㎡D",
+          "n": 89,
+          "price": 53900,
+          "general": 40,
+          "special": 49
+        },
+        {
+          "t": "84㎡E",
+          "n": 301,
+          "price": 54200,
+          "general": 136,
+          "special": 165
+        },
+        {
+          "t": "84㎡F",
+          "n": 83,
+          "price": 54600,
+          "general": 38,
+          "special": 45
+        },
+        {
+          "t": "84㎡G",
+          "n": 19,
+          "price": 53200,
+          "general": 8,
+          "special": 11
+        },
+        {
+          "t": "102㎡",
+          "n": 56,
+          "price": 64000,
+          "general": 49,
+          "special": 7
+        },
+        {
+          "t": "112㎡",
+          "n": 78,
+          "price": 67800,
+          "general": 69,
+          "special": 9
+        },
+        {
+          "t": "120㎡",
+          "n": 77,
+          "price": 72700,
+          "general": 68,
+          "special": 9
+        }
+      ],
+      "specialUnits": {
+        "newly": {
+          "n": 199,
+          "label": "신혼부부"
+        },
+        "first": {
+          "n": 91,
+          "label": "생애최초"
+        },
+        "multi": {
+          "n": 151,
+          "label": "다자녀가구"
+        },
+        "old": {
+          "n": 46,
+          "label": "노부모부양"
+        },
+        "inst": {
+          "n": 132,
+          "label": "기관추천"
+        },
+        "baby": {
+          "n": 132,
+          "label": "신생아"
+        }
+      },
+      "cut": 58,
+      "cutEstimated": true,
+      "cutAmt": 0,
+      "cutAmtEstimated": true,
+      "tags": [
+        "실시간"
+      ],
+      "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000502&pblancNo=2026000502",
+      "note": "청약홈 APT 분양 API 에서 받아온 공고입니다. 시행 신영부동산신탁 주식회사 · 시공 롯데건설(주) · 당첨자발표 2026-11-10 · 입주예정 202912. 예상 당첨선(58점)은 API 가 제공하지 않아 지역 기준으로 추정한 값이고, 주택명·분양가·세대수·특별공급 물량은 응답 원문 그대로입니다."
+    },
     {
       "id": "applyhome-apt-2026000514-2026000514",
       "live": true,
@@ -35031,6 +35163,228 @@
       "note": "청약홈 APT 분양 API 에서 받아온 공고입니다. 시행 선광건설 주식회사 · 시공 선광건설 주식회사 · 당첨자발표 2025-11-07 · 입주예정 202511. 예상 당첨선(42점)은 API 가 제공하지 않아 지역 기준으로 추정한 값이고, 주택명·분양가·세대수·특별공급 물량은 응답 원문 그대로입니다."
     },
     {
+      "id": "applyhome-remndr-2026930044-2026930044",
+      "live": true,
+      "source": "applyhome",
+      "set": "remndr",
+      "category": "무순위",
+      "scoreless": true,
+      "supply": "민영",
+      "kind": "불법행위 재공급",
+      "n": "한화포레나 영흥숲",
+      "gu": "경기도 수원시 영통구 원천동",
+      "brand": "(주)한화",
+      "total": 1,
+      "general": 1,
+      "when": "2026-10-21",
+      "rceptStart": "2026-10-26",
+      "rceptEnd": "2026-10-26",
+      "status": "접수 예정",
+      "receipt": {
+        "special": "2026-10-26 ~ 2026-10-26",
+        "rank1": "",
+        "general": "2026-10-26 ~ 2026-10-26",
+        "result": "2026-10-29"
+      },
+      "types": [
+        {
+          "t": "66㎡",
+          "n": 1,
+          "price": 51220,
+          "general": 0,
+          "special": 1
+        }
+      ],
+      "specialUnits": {},
+      "cut": 58,
+      "cutEstimated": true,
+      "cutAmt": 0,
+      "cutAmtEstimated": true,
+      "tags": [
+        "실시간",
+        "무순위"
+      ],
+      "url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026930044&pblancNo=2026930044",
+      "note": "청약홈 무순위·잔여세대 API 에서 받아온 공고입니다. 시행 (주)한화 · 당첨자발표 2026-10-29 · 입주예정 202611. 무순위·잔여세대는 가점제가 아니라 추첨이라 가점 비교를 하지 않습니다."
+    },
+    {
+      "id": "applyhome-remndr-2026910268-2026910268",
+      "live": true,
+      "source": "applyhome",
+      "set": "remndr",
+      "category": "무순위",
+      "scoreless": true,
+      "supply": "민영",
+      "kind": "무순위",
+      "n": "신천역 에피트(3차)",
+      "gu": "경기도 시흥시 시흥대로 1110",
+      "brand": "(주)다우개발",
+      "total": 8,
+      "general": 8,
+      "when": "2026-10-21",
+      "rceptStart": "2026-10-26",
+      "rceptEnd": "2026-10-26",
+      "status": "접수 예정",
+      "receipt": {
+        "special": "",
+        "rank1": "",
+        "general": "2026-10-26 ~ 2026-10-26",
+        "result": "2026-10-29"
+      },
+      "types": [
+        {
+          "t": "84㎡C",
+          "n": 3,
+          "price": 68060,
+          "general": 3,
+          "special": 0
+        },
+        {
+          "t": "84㎡D",
+          "n": 2,
+          "price": 67190,
+          "general": 2,
+          "special": 0
+        },
+        {
+          "t": "84㎡E",
+          "n": 1,
+          "price": 64630,
+          "general": 1,
+          "special": 0
+        },
+        {
+          "t": "111㎡A",
+          "n": 1,
+          "price": 84430,
+          "general": 1,
+          "special": 0
+        },
+        {
+          "t": "111㎡B",
+          "n": 1,
+          "price": 81000,
+          "general": 1,
+          "special": 0
+        }
+      ],
+      "specialUnits": {},
+      "cut": 42,
+      "cutEstimated": true,
+      "cutAmt": 0,
+      "cutAmtEstimated": true,
+      "tags": [
+        "실시간",
+        "무순위"
+      ],
+      "url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910268&pblancNo=2026910268",
+      "note": "청약홈 무순위·잔여세대 API 에서 받아온 공고입니다. 시행 (주)다우개발 · 당첨자발표 2026-10-29 · 입주예정 202611. 무순위·잔여세대는 가점제가 아니라 추첨이라 가점 비교를 하지 않습니다."
+    },
+    {
+      "id": "applyhome-remndr-2026910266-2026910266",
+      "live": true,
+      "source": "applyhome",
+      "set": "remndr",
+      "category": "무순위",
+      "scoreless": true,
+      "supply": "민영",
+      "kind": "무순위",
+      "n": "문수로 비스타 더파크",
+      "gu": "울산광역시 남구 무거동 1615-1번지(무거삼호지구",
+      "brand": "(주)동원개발",
+      "total": 329,
+      "general": 329,
+      "when": "2026-10-21",
+      "rceptStart": "2026-10-26",
+      "rceptEnd": "2026-10-26",
+      "status": "접수 예정",
+      "receipt": {
+        "special": "",
+        "rank1": "",
+        "general": "2026-10-26 ~ 2026-10-26",
+        "result": "2026-10-29"
+      },
+      "types": [
+        {
+          "t": "68㎡A",
+          "n": 17,
+          "price": 65500,
+          "general": 17,
+          "special": 0
+        },
+        {
+          "t": "68㎡B",
+          "n": 1,
+          "price": 62400,
+          "general": 1,
+          "special": 0
+        },
+        {
+          "t": "84㎡A",
+          "n": 311,
+          "price": 83200,
+          "general": 311,
+          "special": 0
+        }
+      ],
+      "specialUnits": {},
+      "cut": 45,
+      "cutEstimated": true,
+      "cutAmt": 0,
+      "cutAmtEstimated": true,
+      "tags": [
+        "실시간",
+        "무순위"
+      ],
+      "url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910266&pblancNo=2026910266",
+      "note": "청약홈 무순위·잔여세대 API 에서 받아온 공고입니다. 시행 (주)동원개발 · 당첨자발표 2026-10-29 · 입주예정 202905. 무순위·잔여세대는 가점제가 아니라 추첨이라 가점 비교를 하지 않습니다."
+    },
+    {
+      "id": "applyhome-remndr-2026910265-2026910265",
+      "live": true,
+      "source": "applyhome",
+      "set": "remndr",
+      "category": "무순위",
+      "scoreless": true,
+      "supply": "민영",
+      "kind": "무순위",
+      "n": "한화포레나 영흥숲(3차)",
+      "gu": "경기도 수원시 영통구 원천동",
+      "brand": "(주)한화",
+      "total": 1,
+      "general": 1,
+      "when": "2026-10-21",
+      "rceptStart": "2026-10-26",
+      "rceptEnd": "2026-10-26",
+      "status": "접수 예정",
+      "receipt": {
+        "special": "",
+        "rank1": "",
+        "general": "2026-10-26 ~ 2026-10-26",
+        "result": "2026-10-29"
+      },
+      "types": [
+        {
+          "t": "68㎡",
+          "n": 1,
+          "price": 57600,
+          "general": 1,
+          "special": 0
+        }
+      ],
+      "specialUnits": {},
+      "cut": 58,
+      "cutEstimated": true,
+      "cutAmt": 0,
+      "cutAmtEstimated": true,
+      "tags": [
+        "실시간",
+        "무순위"
+      ],
+      "url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910265&pblancNo=2026910265",
+      "note": "청약홈 무순위·잔여세대 API 에서 받아온 공고입니다. 시행 (주)한화 · 당첨자발표 2026-10-29 · 입주예정 202611. 무순위·잔여세대는 가점제가 아니라 추첨이라 가점 비교를 하지 않습니다."
+    },
+    {
       "id": "applyhome-remndr-2026910264-2026910264",
       "live": true,
       "source": "applyhome",
@@ -36398,9 +36752,18 @@
       },
       "types": [
         {
-          "t": "주택형 미상",
-          "n": 0,
-          "price": 0
+          "t": "84㎡B",
+          "n": 1,
+          "price": 35400,
+          "general": 1,
+          "special": 0
+        },
+        {
+          "t": "99㎡A",
+          "n": 1,
+          "price": 39338,
+          "general": 1,
+          "special": 0
         }
       ],
       "specialUnits": {},
@@ -36441,9 +36804,39 @@
       },
       "types": [
         {
-          "t": "주택형 미상",
-          "n": 0,
-          "price": 0
+          "t": "84㎡A",
+          "n": 1,
+          "price": 66460,
+          "general": 1,
+          "special": 0
+        },
+        {
+          "t": "84㎡C",
+          "n": 2,
+          "price": 68060,
+          "general": 2,
+          "special": 0
+        },
+        {
+          "t": "84㎡D",
+          "n": 2,
+          "price": 67190,
+          "general": 2,
+          "special": 0
+        },
+        {
+          "t": "111㎡A",
+          "n": 4,
+          "price": 84430,
+          "general": 4,
+          "special": 0
+        },
+        {
+          "t": "111㎡B",
+          "n": 6,
+          "price": 85290,
+          "general": 6,
+          "special": 0
         }
       ],
       "specialUnits": {},
@@ -37913,9 +38306,18 @@
       },
       "types": [
         {
-          "t": "주택형 미상",
-          "n": 0,
-          "price": 0
+          "t": "84㎡B",
+          "n": 3,
+          "price": 72210,
+          "general": 3,
+          "special": 0
+        },
+        {
+          "t": "84㎡D",
+          "n": 1,
+          "price": 68440,
+          "general": 1,
+          "special": 0
         }
       ],
       "specialUnits": {},
@@ -39430,9 +39832,25 @@
       },
       "types": [
         {
-          "t": "주택형 미상",
-          "n": 0,
-          "price": 0
+          "t": "84㎡A",
+          "n": 2,
+          "price": 41750,
+          "general": 2,
+          "special": 0
+        },
+        {
+          "t": "84㎡B",
+          "n": 1,
+          "price": 40670,
+          "general": 1,
+          "special": 0
+        },
+        {
+          "t": "84㎡C",
+          "n": 1,
+          "price": 42690,
+          "general": 1,
+          "special": 0
         }
       ],
       "specialUnits": {},
@@ -39473,9 +39891,11 @@
       },
       "types": [
         {
-          "t": "주택형 미상",
-          "n": 0,
-          "price": 0
+          "t": "84㎡A",
+          "n": 2,
+          "price": 44500,
+          "general": 2,
+          "special": 0
         }
       ],
       "specialUnits": {},
@@ -40868,9 +41288,11 @@
       },
       "types": [
         {
-          "t": "주택형 미상",
-          "n": 0,
-          "price": 0
+          "t": "84㎡A",
+          "n": 24,
+          "price": 58890,
+          "general": 24,
+          "special": 0
         }
       ],
       "specialUnits": {},
@@ -40911,9 +41333,18 @@
       },
       "types": [
         {
-          "t": "주택형 미상",
-          "n": 0,
-          "price": 0
+          "t": "76㎡A",
+          "n": 25,
+          "price": 98780,
+          "general": 25,
+          "special": 0
+        },
+        {
+          "t": "76㎡B",
+          "n": 1,
+          "price": 82160,
+          "general": 1,
+          "special": 0
         }
       ],
       "specialUnits": {},
@@ -42407,9 +42838,11 @@
       },
       "types": [
         {
-          "t": "주택형 미상",
-          "n": 0,
-          "price": 0
+          "t": "84㎡C",
+          "n": 1,
+          "price": 39730,
+          "general": 1,
+          "special": 0
         }
       ],
       "specialUnits": {},
@@ -44008,9 +44441,18 @@
       },
       "types": [
         {
-          "t": "주택형 미상",
-          "n": 0,
-          "price": 0
+          "t": "74㎡A",
+          "n": 46,
+          "price": 73700,
+          "general": 46,
+          "special": 0
+        },
+        {
+          "t": "84㎡A",
+          "n": 95,
+          "price": 82600,
+          "general": 95,
+          "special": 0
         }
       ],
       "specialUnits": {},
@@ -44051,9 +44493,32 @@
       },
       "types": [
         {
-          "t": "주택형 미상",
-          "n": 0,
-          "price": 0
+          "t": "84㎡A",
+          "n": 127,
+          "price": 60990,
+          "general": 127,
+          "special": 0
+        },
+        {
+          "t": "84㎡B",
+          "n": 8,
+          "price": 57060,
+          "general": 8,
+          "special": 0
+        },
+        {
+          "t": "95㎡A",
+          "n": 188,
+          "price": 76960,
+          "general": 188,
+          "special": 0
+        },
+        {
+          "t": "95㎡B",
+          "n": 41,
+          "price": 77920,
+          "general": 41,
+          "special": 0
         }
       ],
       "specialUnits": {},
@@ -45537,9 +46002,32 @@
       },
       "types": [
         {
-          "t": "주택형 미상",
-          "n": 0,
-          "price": 0
+          "t": "84㎡A",
+          "n": 3,
+          "price": 53520,
+          "general": 3,
+          "special": 0
+        },
+        {
+          "t": "84㎡B",
+          "n": 2,
+          "price": 51400,
+          "general": 2,
+          "special": 0
+        },
+        {
+          "t": "97㎡A",
+          "n": 1,
+          "price": 62740,
+          "general": 1,
+          "special": 0
+        },
+        {
+          "t": "97㎡B",
+          "n": 2,
+          "price": 62130,
+          "general": 2,
+          "special": 0
         }
       ],
       "specialUnits": {},
@@ -45580,9 +46068,25 @@
       },
       "types": [
         {
-          "t": "주택형 미상",
-          "n": 0,
-          "price": 0
+          "t": "59㎡",
+          "n": 3,
+          "price": 37655,
+          "general": 3,
+          "special": 0
+        },
+        {
+          "t": "64㎡",
+          "n": 3,
+          "price": 39990,
+          "general": 3,
+          "special": 0
+        },
+        {
+          "t": "84㎡",
+          "n": 2,
+          "price": 52684,
+          "general": 2,
+          "special": 0
         }
       ],
       "specialUnits": {},
@@ -47084,9 +47588,25 @@
       },
       "types": [
         {
-          "t": "주택형 미상",
-          "n": 0,
-          "price": 0
+          "t": "59㎡A",
+          "n": 1,
+          "price": 41796,
+          "general": 1,
+          "special": 0
+        },
+        {
+          "t": "59㎡B",
+          "n": 1,
+          "price": 43485,
+          "general": 1,
+          "special": 0
+        },
+        {
+          "t": "84㎡D",
+          "n": 1,
+          "price": 54673,
+          "general": 1,
+          "special": 0
         }
       ],
       "specialUnits": {},
@@ -47127,9 +47647,18 @@
       },
       "types": [
         {
-          "t": "주택형 미상",
-          "n": 0,
-          "price": 0
+          "t": "84㎡A",
+          "n": 2,
+          "price": 54500,
+          "general": 2,
+          "special": 0
+        },
+        {
+          "t": "84㎡B",
+          "n": 1,
+          "price": 54500,
+          "general": 1,
+          "special": 0
         }
       ],
       "specialUnits": {},
@@ -47170,9 +47699,11 @@
       },
       "types": [
         {
-          "t": "주택형 미상",
-          "n": 0,
-          "price": 0
+          "t": "84㎡A",
+          "n": 1,
+          "price": 59910,
+          "general": 0,
+          "special": 1
         }
       ],
       "specialUnits": {},
@@ -47213,9 +47744,18 @@
       },
       "types": [
         {
-          "t": "주택형 미상",
-          "n": 0,
-          "price": 0
+          "t": "77㎡",
+          "n": 1,
+          "price": 49950,
+          "general": 1,
+          "special": 0
+        },
+        {
+          "t": "84㎡A",
+          "n": 1,
+          "price": 55860,
+          "general": 1,
+          "special": 0
         }
       ],
       "specialUnits": {},
@@ -48601,9 +49141,39 @@
       },
       "types": [
         {
-          "t": "주택형 미상",
-          "n": 0,
-          "price": 0
+          "t": "60㎡C",
+          "n": 1,
+          "price": 149200,
+          "general": 1,
+          "special": 0
+        },
+        {
+          "t": "71㎡D",
+          "n": 1,
+          "price": 182200,
+          "general": 1,
+          "special": 0
+        },
+        {
+          "t": "73㎡B",
+          "n": 2,
+          "price": 183300,
+          "general": 2,
+          "special": 0
+        },
+        {
+          "t": "78㎡N",
+          "n": 20,
+          "price": 199700,
+          "general": 20,
+          "special": 0
+        },
+        {
+          "t": "84㎡N",
+          "n": 26,
+          "price": 218000,
+          "general": 26,
+          "special": 0
         }
       ],
       "specialUnits": {},
@@ -48644,9 +49214,39 @@
       },
       "types": [
         {
-          "t": "주택형 미상",
-          "n": 0,
-          "price": 0
+          "t": "84㎡A",
+          "n": 1,
+          "price": 45500,
+          "general": 1,
+          "special": 0
+        },
+        {
+          "t": "84㎡B",
+          "n": 4,
+          "price": 43500,
+          "general": 4,
+          "special": 0
+        },
+        {
+          "t": "159㎡A",
+          "n": 2,
+          "price": 83400,
+          "general": 2,
+          "special": 0
+        },
+        {
+          "t": "159㎡B",
+          "n": 1,
+          "price": 82800,
+          "general": 1,
+          "special": 0
+        },
+        {
+          "t": "159㎡C",
+          "n": 1,
+          "price": 83300,
+          "general": 1,
+          "special": 0
         }
       ],
       "specialUnits": {},
@@ -54556,9 +55156,11 @@
       },
       "types": [
         {
-          "t": "주택형 미상",
-          "n": 0,
-          "price": 0
+          "t": "84㎡A",
+          "n": 19,
+          "price": 59890,
+          "general": 19,
+          "special": 0
         }
       ],
       "specialUnits": {},
@@ -54599,9 +55201,11 @@
       },
       "types": [
         {
-          "t": "주택형 미상",
-          "n": 0,
-          "price": 0
+          "t": "84㎡C",
+          "n": 8,
+          "price": 75994,
+          "general": 8,
+          "special": 0
         }
       ],
       "specialUnits": {},
@@ -54642,9 +55246,25 @@
       },
       "types": [
         {
-          "t": "주택형 미상",
-          "n": 0,
-          "price": 0
+          "t": "84㎡A",
+          "n": 1,
+          "price": 45400,
+          "general": 1,
+          "special": 0
+        },
+        {
+          "t": "84㎡B",
+          "n": 1,
+          "price": 45800,
+          "general": 1,
+          "special": 0
+        },
+        {
+          "t": "101㎡",
+          "n": 1,
+          "price": 54100,
+          "general": 1,
+          "special": 0
         }
       ],
       "specialUnits": {},
@@ -54685,9 +55305,11 @@
       },
       "types": [
         {
-          "t": "주택형 미상",
-          "n": 0,
-          "price": 0
+          "t": "59㎡B",
+          "n": 1,
+          "price": 82600,
+          "general": 1,
+          "special": 0
         }
       ],
       "specialUnits": {},
@@ -54728,9 +55350,18 @@
       },
       "types": [
         {
-          "t": "주택형 미상",
-          "n": 0,
-          "price": 0
+          "t": "50㎡",
+          "n": 20,
+          "price": 49900,
+          "general": 20,
+          "special": 0
+        },
+        {
+          "t": "84㎡C",
+          "n": 6,
+          "price": 82300,
+          "general": 6,
+          "special": 0
         }
       ],
       "specialUnits": {},
@@ -54771,9 +55402,18 @@
       },
       "types": [
         {
-          "t": "주택형 미상",
-          "n": 0,
-          "price": 0
+          "t": "76㎡A",
+          "n": 21,
+          "price": 84340,
+          "general": 21,
+          "special": 0
+        },
+        {
+          "t": "84㎡D",
+          "n": 30,
+          "price": 89630,
+          "general": 30,
+          "special": 0
         }
       ],
       "specialUnits": {},
