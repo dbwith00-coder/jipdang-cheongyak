@@ -1,7 +1,573 @@
 {
-  "collectedAt": "2026-10-23T08:23:59.011Z",
-  "count": 758,
+  "collectedAt": "2026-10-23T23:44:05.536Z",
+  "count": 764,
   "sites": [
+    {
+      "id": "applyhome-apt-2026820012-2026820012",
+      "live": true,
+      "source": "applyhome",
+      "set": "apt",
+      "category": "APT",
+      "scoreless": false,
+      "supply": "공공",
+      "kind": "신혼희망타운",
+      "n": "시흥하중지구 A1블록 신혼희망타운(공공분양) 추가입주자모집공고",
+      "gu": "경기도 시흥시 하중동 일원",
+      "brand": "이수건설 주식회사, 주식회사 오렌지이앤씨",
+      "total": 175,
+      "general": 175,
+      "when": "2026-10-23",
+      "rceptStart": "2026-11-02",
+      "rceptEnd": "2026-11-03",
+      "status": "접수 예정",
+      "receipt": {
+        "special": "",
+        "rank1": "2026-11-02 ~ 2026-11-02",
+        "general": "2026-11-02 ~ 2026-11-03",
+        "result": "2026-11-12"
+      },
+      "types": [
+        {
+          "t": "55㎡A",
+          "n": 155,
+          "price": 42374,
+          "general": 0,
+          "special": 155
+        },
+        {
+          "t": "55㎡B",
+          "n": 15,
+          "price": 42215,
+          "general": 0,
+          "special": 15
+        },
+        {
+          "t": "55㎡C",
+          "n": 5,
+          "price": 42298,
+          "general": 0,
+          "special": 5
+        }
+      ],
+      "specialUnits": {},
+      "cut": 42,
+      "cutEstimated": true,
+      "cutAmt": 0,
+      "cutAmtEstimated": true,
+      "tags": [
+        "실시간",
+        "분양가상한제",
+        "공공주택지구"
+      ],
+      "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026820012&pblancNo=2026820012",
+      "note": "청약홈 APT 분양 API 에서 받아온 공고입니다. 시행 한국토지주택공사 경기남부지역본부 · 시공 이수건설 주식회사, 주식회사 오렌지이앤씨 · 당첨자발표 2026-11-12 · 입주예정 202903. 예상 당첨선(42점)은 API 가 제공하지 않아 지역 기준으로 추정한 값이고, 주택명·분양가·세대수·특별공급 물량은 응답 원문 그대로입니다."
+    },
+    {
+      "id": "applyhome-apt-2026000532-2026000532",
+      "live": true,
+      "source": "applyhome",
+      "set": "apt",
+      "category": "APT",
+      "scoreless": false,
+      "supply": "민영",
+      "kind": "APT",
+      "n": "계양신도시 카이브 유보라(AC4BL)",
+      "gu": "인천광역시 계양구 동양동 420-3번지",
+      "brand": "(주)반도건설",
+      "total": 496,
+      "general": 211,
+      "when": "2026-10-23",
+      "rceptStart": "2026-11-02",
+      "rceptEnd": "2026-11-04",
+      "status": "접수 예정",
+      "receipt": {
+        "special": "2026-11-02 ~ 2026-11-02",
+        "rank1": "2026-11-03 ~ 2026-11-03",
+        "general": "2026-11-02 ~ 2026-11-04",
+        "result": "2026-11-11"
+      },
+      "types": [
+        {
+          "t": "84㎡A",
+          "n": 185,
+          "price": 82200,
+          "general": 56,
+          "special": 129
+        },
+        {
+          "t": "84㎡B",
+          "n": 81,
+          "price": 80900,
+          "general": 25,
+          "special": 56
+        },
+        {
+          "t": "84㎡C",
+          "n": 25,
+          "price": 81000,
+          "general": 9,
+          "special": 16
+        },
+        {
+          "t": "84㎡D",
+          "n": 84,
+          "price": 80800,
+          "general": 27,
+          "special": 57
+        },
+        {
+          "t": "84㎡E",
+          "n": 21,
+          "price": 81450,
+          "general": 6,
+          "special": 15
+        },
+        {
+          "t": "93㎡A",
+          "n": 51,
+          "price": 90500,
+          "general": 44,
+          "special": 7
+        },
+        {
+          "t": "93㎡B",
+          "n": 49,
+          "price": 90600,
+          "general": 44,
+          "special": 5
+        }
+      ],
+      "specialUnits": {
+        "newly": {
+          "n": 59,
+          "label": "신혼부부"
+        },
+        "first": {
+          "n": 67,
+          "label": "생애최초"
+        },
+        "multi": {
+          "n": 48,
+          "label": "다자녀가구"
+        },
+        "old": {
+          "n": 14,
+          "label": "노부모부양"
+        },
+        "inst": {
+          "n": 39,
+          "label": "기관추천"
+        },
+        "baby": {
+          "n": 39,
+          "label": "신생아"
+        },
+        "etc": {
+          "n": 19,
+          "label": "기타"
+        }
+      },
+      "cut": 49,
+      "cutEstimated": true,
+      "cutAmt": 0,
+      "cutAmtEstimated": true,
+      "tags": [
+        "실시간",
+        "분양가상한제",
+        "공공주택지구",
+        "대규모택지"
+      ],
+      "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000532&pblancNo=2026000532",
+      "note": "청약홈 APT 분양 API 에서 받아온 공고입니다. 시행 (주)반도건설 · 시공 (주)반도건설 · 당첨자발표 2026-11-11 · 입주예정 202908. 예상 당첨선(49점)은 API 가 제공하지 않아 지역 기준으로 추정한 값이고, 주택명·분양가·세대수·특별공급 물량은 응답 원문 그대로입니다."
+    },
+    {
+      "id": "applyhome-apt-2026000531-2026000531",
+      "live": true,
+      "source": "applyhome",
+      "set": "apt",
+      "category": "APT",
+      "scoreless": false,
+      "supply": "공공",
+      "kind": "APT",
+      "n": "시흥거모지구 S-1블록 공공분양(본청약)",
+      "gu": "경기도 시흥시 거모동, 군자동",
+      "brand": "씨에이이앤씨주식회사",
+      "total": 300,
+      "general": 27,
+      "when": "2026-10-23",
+      "rceptStart": "2026-11-02",
+      "rceptEnd": "2026-11-17",
+      "status": "접수 예정",
+      "receipt": {
+        "special": "",
+        "rank1": "2026-11-02 ~ 2026-11-16",
+        "general": "2026-11-02 ~ 2026-11-17",
+        "result": "2026-11-26"
+      },
+      "types": [
+        {
+          "t": "59㎡A",
+          "n": 13,
+          "price": 41110,
+          "general": 3,
+          "special": 10
+        },
+        {
+          "t": "59㎡B",
+          "n": 20,
+          "price": 41042,
+          "general": 5,
+          "special": 15
+        },
+        {
+          "t": "84㎡A",
+          "n": 72,
+          "price": 57026,
+          "general": 19,
+          "special": 53
+        }
+      ],
+      "specialUnits": {
+        "newly": {
+          "n": 10,
+          "label": "신혼부부"
+        },
+        "first": {
+          "n": 16,
+          "label": "생애최초"
+        },
+        "multi": {
+          "n": 10,
+          "label": "다자녀가구"
+        },
+        "old": {
+          "n": 4,
+          "label": "노부모부양"
+        },
+        "inst": {
+          "n": 17,
+          "label": "기관추천"
+        },
+        "baby": {
+          "n": 21,
+          "label": "신생아"
+        }
+      },
+      "cut": 42,
+      "cutEstimated": true,
+      "cutAmt": 0,
+      "cutAmtEstimated": true,
+      "tags": [
+        "실시간",
+        "분양가상한제",
+        "공공주택지구",
+        "대규모택지"
+      ],
+      "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000531&pblancNo=2026000531",
+      "note": "청약홈 APT 분양 API 에서 받아온 공고입니다. 시행 한국토지주택공사 경기남부지역본부 · 시공 씨에이이앤씨주식회사 · 당첨자발표 2026-11-26 · 입주예정 202906. 예상 당첨선(42점)은 API 가 제공하지 않아 지역 기준으로 추정한 값이고, 주택명·분양가·세대수·특별공급 물량은 응답 원문 그대로입니다."
+    },
+    {
+      "id": "applyhome-apt-2026000530-2026000530",
+      "live": true,
+      "source": "applyhome",
+      "set": "apt",
+      "category": "APT",
+      "scoreless": false,
+      "supply": "민영",
+      "kind": "APT",
+      "n": "계양신도시 카이브 유보라(AC3BL)",
+      "gu": "인천광역시 계양구 동양동 458-3번지",
+      "brand": "(주)반도건설",
+      "total": 614,
+      "general": 261,
+      "when": "2026-10-23",
+      "rceptStart": "2026-11-02",
+      "rceptEnd": "2026-11-04",
+      "status": "접수 예정",
+      "receipt": {
+        "special": "2026-11-02 ~ 2026-11-02",
+        "rank1": "2026-11-03 ~ 2026-11-03",
+        "general": "2026-11-02 ~ 2026-11-04",
+        "result": "2026-11-10"
+      },
+      "types": [
+        {
+          "t": "84㎡A",
+          "n": 229,
+          "price": 82600,
+          "general": 70,
+          "special": 159
+        },
+        {
+          "t": "84㎡B",
+          "n": 79,
+          "price": 81300,
+          "general": 22,
+          "special": 57
+        },
+        {
+          "t": "84㎡C",
+          "n": 26,
+          "price": 81400,
+          "general": 10,
+          "special": 16
+        },
+        {
+          "t": "84㎡D",
+          "n": 125,
+          "price": 81200,
+          "general": 39,
+          "special": 86
+        },
+        {
+          "t": "84㎡E",
+          "n": 29,
+          "price": 81850,
+          "general": 11,
+          "special": 18
+        },
+        {
+          "t": "92㎡A",
+          "n": 36,
+          "price": 91200,
+          "general": 31,
+          "special": 5
+        },
+        {
+          "t": "93㎡A",
+          "n": 36,
+          "price": 90900,
+          "general": 31,
+          "special": 5
+        },
+        {
+          "t": "93㎡B",
+          "n": 54,
+          "price": 91000,
+          "general": 47,
+          "special": 7
+        }
+      ],
+      "specialUnits": {
+        "newly": {
+          "n": 73,
+          "label": "신혼부부"
+        },
+        "first": {
+          "n": 82,
+          "label": "생애최초"
+        },
+        "multi": {
+          "n": 60,
+          "label": "다자녀가구"
+        },
+        "old": {
+          "n": 18,
+          "label": "노부모부양"
+        },
+        "inst": {
+          "n": 48,
+          "label": "기관추천"
+        },
+        "baby": {
+          "n": 48,
+          "label": "신생아"
+        },
+        "etc": {
+          "n": 24,
+          "label": "기타"
+        }
+      },
+      "cut": 49,
+      "cutEstimated": true,
+      "cutAmt": 0,
+      "cutAmtEstimated": true,
+      "tags": [
+        "실시간",
+        "분양가상한제",
+        "공공주택지구",
+        "대규모택지"
+      ],
+      "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000530&pblancNo=2026000530",
+      "note": "청약홈 APT 분양 API 에서 받아온 공고입니다. 시행 (주)반도건설 · 시공 (주)반도건설 · 당첨자발표 2026-11-10 · 입주예정 202908. 예상 당첨선(49점)은 API 가 제공하지 않아 지역 기준으로 추정한 값이고, 주택명·분양가·세대수·특별공급 물량은 응답 원문 그대로입니다."
+    },
+    {
+      "id": "applyhome-apt-2026000518-2026000518",
+      "live": true,
+      "source": "applyhome",
+      "set": "apt",
+      "category": "APT",
+      "scoreless": false,
+      "supply": "민영",
+      "kind": "APT",
+      "n": "GTX운정중앙역 시티프라디움 4단지(후속사업)",
+      "gu": "경기도 파주시 파주운정3지구 주상복합",
+      "brand": "주식회사 시티건설, 주식회사 시티, 주식회사 시티종합건설",
+      "total": 358,
+      "general": 128,
+      "when": "2026-10-23",
+      "rceptStart": "2026-11-02",
+      "rceptEnd": "2026-11-04",
+      "status": "접수 예정",
+      "receipt": {
+        "special": "2026-11-02 ~ 2026-11-02",
+        "rank1": "2026-11-03 ~ 2026-11-03",
+        "general": "2026-11-02 ~ 2026-11-04",
+        "result": "2026-11-11"
+      },
+      "types": [
+        {
+          "t": "60㎡",
+          "n": 92,
+          "price": 60100,
+          "general": 33,
+          "special": 59
+        },
+        {
+          "t": "84㎡",
+          "n": 266,
+          "price": 81400,
+          "general": 95,
+          "special": 171
+        }
+      ],
+      "specialUnits": {
+        "newly": {
+          "n": 52,
+          "label": "신혼부부"
+        },
+        "first": {
+          "n": 60,
+          "label": "생애최초"
+        },
+        "multi": {
+          "n": 36,
+          "label": "다자녀가구"
+        },
+        "old": {
+          "n": 11,
+          "label": "노부모부양"
+        },
+        "inst": {
+          "n": 36,
+          "label": "기관추천"
+        },
+        "baby": {
+          "n": 35,
+          "label": "신생아"
+        }
+      },
+      "cut": 49,
+      "cutEstimated": true,
+      "cutAmt": 0,
+      "cutAmtEstimated": true,
+      "tags": [
+        "실시간",
+        "분양가상한제",
+        "대규모택지"
+      ],
+      "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000518&pblancNo=2026000518",
+      "note": "청약홈 APT 분양 API 에서 받아온 공고입니다. 시행 (주)넥스트건설 · 시공 주식회사 시티건설, 주식회사 시티, 주식회사 시티종합건설 · 당첨자발표 2026-11-11 · 입주예정 203007. 예상 당첨선(49점)은 API 가 제공하지 않아 지역 기준으로 추정한 값이고, 주택명·분양가·세대수·특별공급 물량은 응답 원문 그대로입니다."
+    },
+    {
+      "id": "applyhome-apt-2026000517-2026000517",
+      "live": true,
+      "source": "applyhome",
+      "set": "apt",
+      "category": "APT",
+      "scoreless": false,
+      "supply": "민영",
+      "kind": "APT",
+      "n": "GTX운정중앙역 시티프라디움 3단지(후속사업)",
+      "gu": "경기도 파주시 파주운정3지구 주상복합",
+      "brand": "주식회사 시티건설, 주식회사 시티, 주식회사 시티종합건설",
+      "total": 337,
+      "general": 196,
+      "when": "2026-10-23",
+      "rceptStart": "2026-11-02",
+      "rceptEnd": "2026-11-04",
+      "status": "접수 예정",
+      "receipt": {
+        "special": "2026-11-02 ~ 2026-11-02",
+        "rank1": "2026-11-03 ~ 2026-11-03",
+        "general": "2026-11-02 ~ 2026-11-04",
+        "result": "2026-11-10"
+      },
+      "types": [
+        {
+          "t": "60㎡",
+          "n": 33,
+          "price": 58900,
+          "general": 12,
+          "special": 21
+        },
+        {
+          "t": "84㎡",
+          "n": 77,
+          "price": 79800,
+          "general": 29,
+          "special": 48
+        },
+        {
+          "t": "84㎡",
+          "n": 86,
+          "price": 79400,
+          "general": 31,
+          "special": 55
+        },
+        {
+          "t": "88㎡",
+          "n": 62,
+          "price": 84100,
+          "general": 55,
+          "special": 7
+        },
+        {
+          "t": "115㎡",
+          "n": 79,
+          "price": 99400,
+          "general": 69,
+          "special": 10
+        }
+      ],
+      "specialUnits": {
+        "newly": {
+          "n": 27,
+          "label": "신혼부부"
+        },
+        "first": {
+          "n": 34,
+          "label": "생애최초"
+        },
+        "multi": {
+          "n": 34,
+          "label": "다자녀가구"
+        },
+        "old": {
+          "n": 10,
+          "label": "노부모부양"
+        },
+        "inst": {
+          "n": 18,
+          "label": "기관추천"
+        },
+        "baby": {
+          "n": 18,
+          "label": "신생아"
+        }
+      },
+      "cut": 49,
+      "cutEstimated": true,
+      "cutAmt": 0,
+      "cutAmtEstimated": true,
+      "tags": [
+        "실시간",
+        "분양가상한제",
+        "대규모택지"
+      ],
+      "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000517&pblancNo=2026000517",
+      "note": "청약홈 APT 분양 API 에서 받아온 공고입니다. 시행 (주)넥스트건설 · 시공 주식회사 시티건설, 주식회사 시티, 주식회사 시티종합건설 · 당첨자발표 2026-11-10 · 입주예정 203007. 예상 당첨선(49점)은 API 가 제공하지 않아 지역 기준으로 추정한 값이고, 주택명·분양가·세대수·특별공급 물량은 응답 원문 그대로입니다."
+    },
     {
       "id": "applyhome-apt-2026000496-2026000496",
       "live": true,
@@ -12904,7 +13470,7 @@
       "gu": "충청남도 천안시 서북구 백석동",
       "brand": "지에스건설 (주)",
       "total": 854,
-      "general": 854,
+      "general": 434,
       "when": "2026-06-05",
       "rceptStart": "2026-06-15",
       "rceptEnd": "2026-06-17",
@@ -12917,12 +13483,84 @@
       },
       "types": [
         {
-          "t": "주택형 미상",
-          "n": 0,
-          "price": 0
+          "t": "59㎡",
+          "n": 50,
+          "price": 40840,
+          "general": 24,
+          "special": 26
+        },
+        {
+          "t": "63㎡",
+          "n": 27,
+          "price": 43520,
+          "general": 15,
+          "special": 12
+        },
+        {
+          "t": "74㎡",
+          "n": 196,
+          "price": 48210,
+          "general": 91,
+          "special": 105
+        },
+        {
+          "t": "84㎡A",
+          "n": 211,
+          "price": 58390,
+          "general": 97,
+          "special": 114
+        },
+        {
+          "t": "84㎡B",
+          "n": 182,
+          "price": 58390,
+          "general": 84,
+          "special": 98
+        },
+        {
+          "t": "84㎡C",
+          "n": 106,
+          "price": 58390,
+          "general": 50,
+          "special": 56
+        },
+        {
+          "t": "99㎡",
+          "n": 78,
+          "price": 67600,
+          "general": 69,
+          "special": 9
+        },
+        {
+          "t": "115㎡",
+          "n": 4,
+          "price": 94010,
+          "general": 4,
+          "special": 0
         }
       ],
-      "specialUnits": {},
+      "specialUnits": {
+        "newly": {
+          "n": 175,
+          "label": "신혼부부"
+        },
+        "first": {
+          "n": 66,
+          "label": "생애최초"
+        },
+        "multi": {
+          "n": 82,
+          "label": "다자녀가구"
+        },
+        "old": {
+          "n": 22,
+          "label": "노부모부양"
+        },
+        "inst": {
+          "n": 75,
+          "label": "기관추천"
+        }
+      },
       "cut": 42,
       "cutEstimated": true,
       "cutAmt": 0,
@@ -37159,9 +37797,11 @@
       },
       "types": [
         {
-          "t": "주택형 미상",
-          "n": 0,
-          "price": 0
+          "t": "59㎡A",
+          "n": 229,
+          "price": 87500,
+          "general": 229,
+          "special": 0
         }
       ],
       "specialUnits": {},
@@ -38409,9 +39049,18 @@
       },
       "types": [
         {
-          "t": "주택형 미상",
-          "n": 0,
-          "price": 0
+          "t": "84㎡B",
+          "n": 3,
+          "price": 72210,
+          "general": 3,
+          "special": 0
+        },
+        {
+          "t": "84㎡D",
+          "n": 1,
+          "price": 68440,
+          "general": 1,
+          "special": 0
         }
       ],
       "specialUnits": {},
