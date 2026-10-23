@@ -1,6 +1,6 @@
 {
-  "collectedAt": "2026-10-22T23:50:21.093Z",
-  "count": 759,
+  "collectedAt": "2026-10-23T08:23:59.011Z",
+  "count": 758,
   "sites": [
     {
       "id": "applyhome-apt-2026000496-2026000496",
@@ -12904,7 +12904,7 @@
       "gu": "충청남도 천안시 서북구 백석동",
       "brand": "지에스건설 (주)",
       "total": 854,
-      "general": 434,
+      "general": 854,
       "when": "2026-06-05",
       "rceptStart": "2026-06-15",
       "rceptEnd": "2026-06-17",
@@ -12917,84 +12917,12 @@
       },
       "types": [
         {
-          "t": "59㎡",
-          "n": 50,
-          "price": 40840,
-          "general": 24,
-          "special": 26
-        },
-        {
-          "t": "63㎡",
-          "n": 27,
-          "price": 43520,
-          "general": 15,
-          "special": 12
-        },
-        {
-          "t": "74㎡",
-          "n": 196,
-          "price": 48210,
-          "general": 91,
-          "special": 105
-        },
-        {
-          "t": "84㎡A",
-          "n": 211,
-          "price": 58390,
-          "general": 97,
-          "special": 114
-        },
-        {
-          "t": "84㎡B",
-          "n": 182,
-          "price": 58390,
-          "general": 84,
-          "special": 98
-        },
-        {
-          "t": "84㎡C",
-          "n": 106,
-          "price": 58390,
-          "general": 50,
-          "special": 56
-        },
-        {
-          "t": "99㎡",
-          "n": 78,
-          "price": 67600,
-          "general": 69,
-          "special": 9
-        },
-        {
-          "t": "115㎡",
-          "n": 4,
-          "price": 94010,
-          "general": 4,
-          "special": 0
+          "t": "주택형 미상",
+          "n": 0,
+          "price": 0
         }
       ],
-      "specialUnits": {
-        "newly": {
-          "n": 175,
-          "label": "신혼부부"
-        },
-        "first": {
-          "n": 66,
-          "label": "생애최초"
-        },
-        "multi": {
-          "n": 82,
-          "label": "다자녀가구"
-        },
-        "old": {
-          "n": 22,
-          "label": "노부모부양"
-        },
-        "inst": {
-          "n": 75,
-          "label": "기관추천"
-        }
-      },
+      "specialUnits": {},
       "cut": 42,
       "cutEstimated": true,
       "cutAmt": 0,
@@ -37231,11 +37159,9 @@
       },
       "types": [
         {
-          "t": "59㎡A",
-          "n": 229,
-          "price": 87500,
-          "general": 229,
-          "special": 0
+          "t": "주택형 미상",
+          "n": 0,
+          "price": 0
         }
       ],
       "specialUnits": {},
@@ -38483,18 +38409,9 @@
       },
       "types": [
         {
-          "t": "84㎡B",
-          "n": 3,
-          "price": 72210,
-          "general": 3,
-          "special": 0
-        },
-        {
-          "t": "84㎡D",
-          "n": 1,
-          "price": 68440,
-          "general": 1,
-          "special": 0
+          "t": "주택형 미상",
+          "n": 0,
+          "price": 0
         }
       ],
       "specialUnits": {},
@@ -56603,86 +56520,6 @@
       ],
       "url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910204&pblancNo=2025910204",
       "note": "청약홈 무순위·잔여세대 API 에서 받아온 공고입니다. 시행 율하이엘지역주택조합 · 당첨자발표 2025-10-31 · 입주예정 202511. 무순위·잔여세대는 가점제가 아니라 추첨이라 가점 비교를 하지 않습니다."
-    },
-    {
-      "id": "applyhome-remndr-2025910199-2025910199",
-      "live": true,
-      "source": "applyhome",
-      "set": "remndr",
-      "category": "무순위",
-      "scoreless": true,
-      "supply": "민영",
-      "kind": "무순위",
-      "n": "서면 어반센트 데시앙",
-      "gu": "부산광역시 부산진구 부암동 690-8번지",
-      "brand": "메디컬카운티지역주택조합",
-      "total": 153,
-      "general": 153,
-      "when": "2025-10-22",
-      "rceptStart": "2025-10-27",
-      "rceptEnd": "2025-10-27",
-      "status": "접수 마감",
-      "receipt": {
-        "special": "",
-        "rank1": "",
-        "general": "2025-10-27 ~ 2025-10-27",
-        "result": "2025-10-30"
-      },
-      "types": [
-        {
-          "t": "59㎡A",
-          "n": 6,
-          "price": 59500,
-          "general": 6,
-          "special": 0
-        },
-        {
-          "t": "59㎡B",
-          "n": 19,
-          "price": 62500,
-          "general": 19,
-          "special": 0
-        },
-        {
-          "t": "74㎡A",
-          "n": 2,
-          "price": 76900,
-          "general": 2,
-          "special": 0
-        },
-        {
-          "t": "74㎡B",
-          "n": 8,
-          "price": 74100,
-          "general": 8,
-          "special": 0
-        },
-        {
-          "t": "84㎡A",
-          "n": 71,
-          "price": 81400,
-          "general": 71,
-          "special": 0
-        },
-        {
-          "t": "84㎡B",
-          "n": 47,
-          "price": 84300,
-          "general": 47,
-          "special": 0
-        }
-      ],
-      "specialUnits": {},
-      "cut": 45,
-      "cutEstimated": true,
-      "cutAmt": 0,
-      "cutAmtEstimated": true,
-      "tags": [
-        "실시간",
-        "무순위"
-      ],
-      "url": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910199&pblancNo=2025910199",
-      "note": "청약홈 무순위·잔여세대 API 에서 받아온 공고입니다. 시행 메디컬카운티지역주택조합 · 당첨자발표 2025-10-30 · 입주예정 202709. 무순위·잔여세대는 가점제가 아니라 추첨이라 가점 비교를 하지 않습니다."
     }
   ]
 }
