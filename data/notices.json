@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-25T22:59:48.883Z",
+  "collectedAt": "2026-10-26T08:42:32.635Z",
   "count": 754,
   "sites": [
     {
@@ -827,7 +827,7 @@
       "when": "2026-10-16",
       "rceptStart": "2026-10-26",
       "rceptEnd": "2026-10-28",
-      "status": "접수 예정",
+      "status": "접수 중",
       "receipt": {
         "special": "2026-10-26 ~ 2026-10-26",
         "rank1": "2026-10-27 ~ 2026-10-27",
@@ -924,7 +924,7 @@
       "when": "2026-10-16",
       "rceptStart": "2026-10-26",
       "rceptEnd": "2026-10-28",
-      "status": "접수 예정",
+      "status": "접수 중",
       "receipt": {
         "special": "2026-10-26 ~ 2026-10-26",
         "rank1": "2026-10-27 ~ 2026-10-27",
@@ -1021,7 +1021,7 @@
       "when": "2026-10-16",
       "rceptStart": "2026-10-26",
       "rceptEnd": "2026-10-28",
-      "status": "접수 예정",
+      "status": "접수 중",
       "receipt": {
         "special": "2026-10-26 ~ 2026-10-26",
         "rank1": "2026-10-27 ~ 2026-10-27",
@@ -1149,7 +1149,7 @@
       "when": "2026-10-16",
       "rceptStart": "2026-10-26",
       "rceptEnd": "2026-10-28",
-      "status": "접수 예정",
+      "status": "접수 중",
       "receipt": {
         "special": "2026-10-26 ~ 2026-10-26",
         "rank1": "2026-10-27 ~ 2026-10-27",
@@ -1270,7 +1270,7 @@
       "when": "2026-10-16",
       "rceptStart": "2026-10-26",
       "rceptEnd": "2026-10-27",
-      "status": "접수 예정",
+      "status": "접수 중",
       "receipt": {
         "special": "",
         "rank1": "2026-10-26 ~ 2026-10-26",
@@ -1335,7 +1335,7 @@
       "when": "2026-10-16",
       "rceptStart": "2026-10-26",
       "rceptEnd": "2026-10-28",
-      "status": "접수 예정",
+      "status": "접수 중",
       "receipt": {
         "special": "2026-10-26 ~ 2026-10-26",
         "rank1": "2026-10-27 ~ 2026-10-27",
@@ -35174,7 +35174,7 @@
       "when": "2026-10-21",
       "rceptStart": "2026-10-26",
       "rceptEnd": "2026-10-26",
-      "status": "접수 예정",
+      "status": "접수 중",
       "receipt": {
         "special": "2026-10-26 ~ 2026-10-26",
         "rank1": "",
@@ -35219,7 +35219,7 @@
       "when": "2026-10-21",
       "rceptStart": "2026-10-26",
       "rceptEnd": "2026-10-26",
-      "status": "접수 예정",
+      "status": "접수 중",
       "receipt": {
         "special": "",
         "rank1": "",
@@ -35292,7 +35292,7 @@
       "when": "2026-10-21",
       "rceptStart": "2026-10-26",
       "rceptEnd": "2026-10-26",
-      "status": "접수 예정",
+      "status": "접수 중",
       "receipt": {
         "special": "",
         "rank1": "",
@@ -35351,7 +35351,7 @@
       "when": "2026-10-21",
       "rceptStart": "2026-10-26",
       "rceptEnd": "2026-10-26",
-      "status": "접수 예정",
+      "status": "접수 중",
       "receipt": {
         "special": "",
         "rank1": "",
@@ -36695,18 +36695,9 @@
       },
       "types": [
         {
-          "t": "84㎡A",
-          "n": 1,
-          "price": 35550,
-          "general": 0,
-          "special": 1
-        },
-        {
-          "t": "99㎡A",
-          "n": 1,
-          "price": 37708,
-          "general": 0,
-          "special": 1
+          "t": "주택형 미상",
+          "n": 0,
+          "price": 0
         }
       ],
       "specialUnits": {},
@@ -36747,18 +36738,9 @@
       },
       "types": [
         {
-          "t": "84㎡B",
-          "n": 1,
-          "price": 35400,
-          "general": 1,
-          "special": 0
-        },
-        {
-          "t": "99㎡A",
-          "n": 1,
-          "price": 39338,
-          "general": 1,
-          "special": 0
+          "t": "주택형 미상",
+          "n": 0,
+          "price": 0
         }
       ],
       "specialUnits": {},
@@ -36799,39 +36781,9 @@
       },
       "types": [
         {
-          "t": "84㎡A",
-          "n": 1,
-          "price": 66460,
-          "general": 1,
-          "special": 0
-        },
-        {
-          "t": "84㎡C",
-          "n": 2,
-          "price": 68060,
-          "general": 2,
-          "special": 0
-        },
-        {
-          "t": "84㎡D",
-          "n": 2,
-          "price": 67190,
-          "general": 2,
-          "special": 0
-        },
-        {
-          "t": "111㎡A",
-          "n": 4,
-          "price": 84430,
-          "general": 4,
-          "special": 0
-        },
-        {
-          "t": "111㎡B",
-          "n": 6,
-          "price": 85290,
-          "general": 6,
-          "special": 0
+          "t": "주택형 미상",
+          "n": 0,
+          "price": 0
         }
       ],
       "specialUnits": {},
@@ -38141,74 +38093,9 @@
       },
       "types": [
         {
-          "t": "38㎡A",
-          "n": 13,
-          "price": 27100,
-          "general": 13,
-          "special": 0
-        },
-        {
-          "t": "46㎡A",
-          "n": 4,
-          "price": 33990,
-          "general": 4,
-          "special": 0
-        },
-        {
-          "t": "74㎡A",
-          "n": 22,
-          "price": 53080,
-          "general": 22,
-          "special": 0
-        },
-        {
-          "t": "74㎡B",
-          "n": 32,
-          "price": 52080,
-          "general": 32,
-          "special": 0
-        },
-        {
-          "t": "84㎡A",
-          "n": 142,
-          "price": 61150,
-          "general": 142,
-          "special": 0
-        },
-        {
-          "t": "84㎡B",
-          "n": 19,
-          "price": 58100,
-          "general": 19,
-          "special": 0
-        },
-        {
-          "t": "84㎡C",
-          "n": 105,
-          "price": 60840,
-          "general": 105,
-          "special": 0
-        },
-        {
-          "t": "101㎡A",
-          "n": 24,
-          "price": 71380,
-          "general": 24,
-          "special": 0
-        },
-        {
-          "t": "101㎡B",
-          "n": 66,
-          "price": 71320,
-          "general": 66,
-          "special": 0
-        },
-        {
-          "t": "136㎡A",
-          "n": 3,
-          "price": 150340,
-          "general": 3,
-          "special": 0
+          "t": "주택형 미상",
+          "n": 0,
+          "price": 0
         }
       ],
       "specialUnits": {},
@@ -38249,18 +38136,9 @@
       },
       "types": [
         {
-          "t": "24㎡",
-          "n": 2,
-          "price": 48550,
-          "general": 2,
-          "special": 0
-        },
-        {
-          "t": "25㎡",
-          "n": 1,
-          "price": 47750,
-          "general": 1,
-          "special": 0
+          "t": "주택형 미상",
+          "n": 0,
+          "price": 0
         }
       ],
       "specialUnits": {},
@@ -40607,11 +40485,9 @@
       },
       "types": [
         {
-          "t": "84㎡A",
-          "n": 1,
-          "price": 30920,
-          "general": 1,
-          "special": 0
+          "t": "주택형 미상",
+          "n": 0,
+          "price": 0
         }
       ],
       "specialUnits": {},
@@ -40652,11 +40528,9 @@
       },
       "types": [
         {
-          "t": "110㎡A",
-          "n": 2,
-          "price": 78130,
-          "general": 2,
-          "special": 0
+          "t": "주택형 미상",
+          "n": 0,
+          "price": 0
         }
       ],
       "specialUnits": {},
@@ -44294,18 +44168,9 @@
       },
       "types": [
         {
-          "t": "59㎡B",
-          "n": 5,
-          "price": 41700,
-          "general": 5,
-          "special": 0
-        },
-        {
-          "t": "59㎡C",
-          "n": 3,
-          "price": 42500,
-          "general": 3,
-          "special": 0
+          "t": "주택형 미상",
+          "n": 0,
+          "price": 0
         }
       ],
       "specialUnits": {},
@@ -44346,11 +44211,9 @@
       },
       "types": [
         {
-          "t": "84㎡A",
-          "n": 379,
-          "price": 61597,
-          "general": 379,
-          "special": 0
+          "t": "주택형 미상",
+          "n": 0,
+          "price": 0
         }
       ],
       "specialUnits": {},
@@ -44391,11 +44254,9 @@
       },
       "types": [
         {
-          "t": "59㎡",
-          "n": 45,
-          "price": 51150,
-          "general": 45,
-          "special": 0
+          "t": "주택형 미상",
+          "n": 0,
+          "price": 0
         }
       ],
       "specialUnits": {},
@@ -46962,53 +46823,9 @@
       },
       "types": [
         {
-          "t": "84㎡A",
-          "n": 141,
-          "price": 59160,
-          "general": 141,
-          "special": 0
-        },
-        {
-          "t": "84㎡B",
-          "n": 30,
-          "price": 59110,
-          "general": 30,
-          "special": 0
-        },
-        {
-          "t": "84㎡C",
-          "n": 21,
-          "price": 60030,
-          "general": 21,
-          "special": 0
-        },
-        {
-          "t": "102㎡A",
-          "n": 65,
-          "price": 72140,
-          "general": 65,
-          "special": 0
-        },
-        {
-          "t": "102㎡B",
-          "n": 68,
-          "price": 72970,
-          "general": 68,
-          "special": 0
-        },
-        {
-          "t": "120㎡",
-          "n": 8,
-          "price": 80250,
-          "general": 8,
-          "special": 0
-        },
-        {
-          "t": "197㎡",
-          "n": 1,
-          "price": 246120,
-          "general": 1,
-          "special": 0
+          "t": "주택형 미상",
+          "n": 0,
+          "price": 0
         }
       ],
       "specialUnits": {},
@@ -52074,11 +51891,9 @@
       },
       "types": [
         {
-          "t": "98㎡",
-          "n": 51,
-          "price": 62900,
-          "general": 51,
-          "special": 0
+          "t": "주택형 미상",
+          "n": 0,
+          "price": 0
         }
       ],
       "specialUnits": {},
@@ -52119,11 +51934,9 @@
       },
       "types": [
         {
-          "t": "84㎡B",
-          "n": 3,
-          "price": 49520,
-          "general": 3,
-          "special": 0
+          "t": "주택형 미상",
+          "n": 0,
+          "price": 0
         }
       ],
       "specialUnits": {},
@@ -52164,18 +51977,9 @@
       },
       "types": [
         {
-          "t": "59㎡A",
-          "n": 13,
-          "price": 38000,
-          "general": 13,
-          "special": 0
-        },
-        {
-          "t": "59㎡B",
-          "n": 8,
-          "price": 36120,
-          "general": 8,
-          "special": 0
+          "t": "주택형 미상",
+          "n": 0,
+          "price": 0
         }
       ],
       "specialUnits": {},
@@ -54724,60 +54528,9 @@
       },
       "types": [
         {
-          "t": "59㎡A",
-          "n": 3,
-          "price": 46500,
-          "general": 3,
-          "special": 0
-        },
-        {
-          "t": "59㎡B",
-          "n": 2,
-          "price": 50810,
-          "general": 2,
-          "special": 0
-        },
-        {
-          "t": "59㎡C",
-          "n": 2,
-          "price": 49860,
-          "general": 2,
-          "special": 0
-        },
-        {
-          "t": "59㎡D",
-          "n": 2,
-          "price": 50810,
-          "general": 2,
-          "special": 0
-        },
-        {
-          "t": "59㎡E",
-          "n": 2,
-          "price": 47460,
-          "general": 2,
-          "special": 0
-        },
-        {
-          "t": "59㎡F",
-          "n": 1,
-          "price": 48900,
-          "general": 1,
-          "special": 0
-        },
-        {
-          "t": "59㎡G",
-          "n": 1,
-          "price": 47940,
-          "general": 1,
-          "special": 0
-        },
-        {
-          "t": "74㎡",
-          "n": 4,
-          "price": 60300,
-          "general": 4,
-          "special": 0
+          "t": "주택형 미상",
+          "n": 0,
+          "price": 0
         }
       ],
       "specialUnits": {},
@@ -54818,11 +54571,9 @@
       },
       "types": [
         {
-          "t": "84㎡A",
-          "n": 6,
-          "price": 50600,
-          "general": 6,
-          "special": 0
+          "t": "주택형 미상",
+          "n": 0,
+          "price": 0
         }
       ],
       "specialUnits": {},
