@@ -1,21 +1,21 @@
 {
-  "collectedAt": "2026-10-30T09:47:44.474Z",
+  "collectedAt": "2026-10-31T00:19:43.029Z",
   "sources": {
     "lh": {
       "ok": false,
       "count": 0,
       "rawCount": 0,
       "pickedFrom": null,
-      "ms": 771,
+      "ms": 937,
       "error": "HTTP 400 · {\n  \"OpenAPI_ServiceResponse\": {\n    \"cmmMsgHeader\": {\n      \"errMsg\": \"NO_OPENAPI_SERVICE_ERROR\",\n      \"returnAuthMsg\": \"해당 오픈API 서비스가 없거나 폐기됨\",\n      \"return",
       "fields": []
     },
     "odc": {
       "ok": true,
-      "count": 759,
-      "rawCount": 759,
+      "count": 765,
+      "rawCount": 765,
       "pickedFrom": "data",
-      "ms": 38526,
+      "ms": 34578,
       "error": null,
       "fields": [
         "BSNS_MBY_NM",
@@ -72,8 +72,8 @@
         {
           "key": "apt",
           "label": "APT 분양",
-          "count": 370,
-          "total": 370,
+          "count": 376,
+          "total": 376,
           "error": null
         },
         {
